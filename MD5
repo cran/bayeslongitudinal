@@ -1,0 +1,15 @@
+90a0e281f7b5b9dcc9ecff41ba2d3c96 *DESCRIPTION
+5768119a18ef6872b8bbcbab21a34e75 *NAMESPACE
+f6a4c993c63f142893b4b43b23e7f769 *R/Rdata.R
+e82082b9350622b87f9b085988aa947a *R/bloques.R
+02e9d35fad313708b502259bc0fed7f1 *R/mhar1.R
+5b29ba33d9f78d28b2660c7d5d78b70c *R/mharma11.R
+e2f03f64bcd0222a4c0757b9f77c2acf *R/mhsc.R
+017e3f8f7c89ce9d30ec86cf54c3a8aa *data/Dental.RData
+3c392cf99824906c4bcb881dfc2e5293 *man/Dental.Rd
+222694507e84ad4e533c63998e28039c *man/bloques.Rd
+3b28e758c92575b74d7ef992563c9228 *man/bloques2.Rd
+fc3422b8a152d211735e1c53ba4408ec *man/bloques3.Rd
+0544ac154e19ebbaabbdc0d45a6f6b6b *man/mhar1.Rd
+3ae7d28af94a04c7f46a8fa608f994cf *man/mharma11.Rd
+59f3fac4182191d6e44af7fec1677e6d *man/mhsc.Rd
